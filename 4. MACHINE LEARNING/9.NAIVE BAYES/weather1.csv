@@ -1,0 +1,44 @@
+outlook,temperature,humidity,windy,play
+overcast,hot,high,FALSE,yes
+overcast,cool,normal,TRUE,yes
+overcast,mild,high,TRUE,yes
+overcast,hot,normal,FALSE,yes
+rainy,mild,high,FALSE,yes
+rainy,cool,normal,FALSE,yes
+rainy,cool,normal,TRUE,no
+rainy,mild,normal,FALSE,yes
+rainy,mild,high,TRUE,no
+sunny,hot,high,FALSE,no
+sunny,hot,high,TRUE,no
+sunny,mild,high,FALSE,no
+sunny,cool,normal,FALSE,yes
+sunny,mild,normal,TRUE,yes
+,,,,
+overcast : 4Y & 0N,hot : 2Y & 2N,high: 3Y & 4N,True: 3Y & 3N,
+rainy: 3Y & 2N,cool : 3Y & 1N,normal: 6Y & 1N,False: 6Y & 2N,
+Sunny: 2Y & 3N,mild: 4Y & 2N,,,
+,,,,
+,,,,
+outlook,temperature,humidity,windy,play
+sunny,hot,high,FALSE,no
+sunny,hot,high,TRUE,no
+sunny,mild,high,FALSE,no
+sunny,cool,normal,FALSE,yes
+sunny,mild,normal,TRUE,yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+outlook,temperature,humidity,windy,play
+rainy,mild,high,FALSE,yes
+rainy,cool,normal,FALSE,yes
+rainy,cool,normal,TRUE,no
+rainy,mild,normal,FALSE,yes
+rainy,mild,high,TRUE,no
+,,,,
+,mild: 2Y and 1N,high: 1Y and 1N,True: 0Y and 2N,
+,Cool : 1Y & 1N,normal: 2Y and 1N,False: 3Y and 0N,

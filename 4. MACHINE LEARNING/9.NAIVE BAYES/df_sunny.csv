@@ -1,0 +1,5 @@
+,Condition,Yes,No,P(Yes),P(No)
+0,Sunny,2,3, 2/9, 3/5
+1,Rainy,3,2, 1/3, 2/5
+2,Overcast,4,0, 4/9,0    
+3,Total,9,5,100%,100%
